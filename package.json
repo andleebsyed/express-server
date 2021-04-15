@@ -2,7 +2,7 @@
   "name": "express-server",
   "version": "1.0.0",
   "description": "This is a simple express application with which any user can interact",
-  "main": "app.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
   },
